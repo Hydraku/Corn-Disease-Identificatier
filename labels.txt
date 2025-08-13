@@ -1,0 +1,6 @@
+0 Banded Leaf and Sheat blight
+1 Downy Mildew
+2 Healthy Corn Leaf
+3 Leaf rust
+4 Leaf spot
+5 Maize Dwarf Mosaic
