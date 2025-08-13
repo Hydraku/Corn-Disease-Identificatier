@@ -1,5 +1,5 @@
 # Corn-Disease-Identifier
-This project is an Object Identification project, in which it identifies 5 common Corn Diseases
+This project is an Object Identification project, in which it identifies 5 common Corn Diseases.
 It can also identify if the corn leaf is healthy.
 
 This was made during when I was taking Bachelor of Science in Agricultural and Biosystems Engineering.
