@@ -1,5 +1,6 @@
 # Corn-Disease-Identifier
 This project is an Object Identification project, in which it identifies 5 common Corn Diseases
+It can also identify if the Corn Leaf is Healthy.
 
 This was made during when I was taking Agricultural and Biosystem Engineering Course.
 The images in cannot be uploaded here in Github for it is large in size.
